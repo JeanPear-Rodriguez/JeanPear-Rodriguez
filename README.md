@@ -2,7 +2,6 @@
 
 en clase de introduccion a la programacion aperndi a realizar un arreglo.
 
-
 <?php
 	//echo "china";
 	
